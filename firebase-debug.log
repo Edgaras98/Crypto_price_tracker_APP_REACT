@@ -1,0 +1,22 @@
+[debug] [2021-11-08T12:45:05.127Z] ----------------------------------------------------------------------
+[debug] [2021-11-08T12:45:05.136Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\edgar\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-11-08T12:45:05.137Z] CLI Version:   9.22.0
+[debug] [2021-11-08T12:45:05.137Z] Platform:      win32
+[debug] [2021-11-08T12:45:05.138Z] Node Version:  v16.7.0
+[debug] [2021-11-08T12:45:05.147Z] Time:          Mon Nov 08 2021 14:45:05 GMT+0200 (Eastern European Standard Time)
+[debug] [2021-11-08T12:45:05.148Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-11-08T12:45:05.158Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2021-11-08T12:45:05.256Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-11-08T12:45:05.256Z] > authorizing via signed-in user (edgarasstepanovas14@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\edgar\Desktop\crpt-track\Crypto_price_tracker_APP_REACT
+
